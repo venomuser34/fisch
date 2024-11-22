@@ -42,7 +42,8 @@ WaitForBobberDelay := 1000
 ; Set this to your navigation key, IMPORTANT
 NavigationKey := "ň"
 
-;     SHAKE SETTINGS     ====================================================================================================;
+;     SHAKE SETTINGS  click
+
 
 ; Change to "Navigation" or "Click"
 ShakeMode := "Navigation"

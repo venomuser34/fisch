@@ -48,7 +48,7 @@ NavigationKey := "ň"
 ShakeMode := "Navigation"
 
 ; Color range to scan for fish bar
-FishBarColorTolerance := 0
+FishBarColorTolerance := 100
 
 ; Seconds for click shake to be considered failed
 ClickShakeFailsafe := 20

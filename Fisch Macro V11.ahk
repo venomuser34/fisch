@@ -45,7 +45,8 @@ NavigationKey := "ň"
 ;     SHAKE SETTINGS     ====================================================================================================;
 
 ; Change to "Navigation" or "Click"
-ShakeMode := "Navigation"
+ShakeMode := click
+
 
 ; Color range to scan for fish bar
 FishBarColorTolerance := 0
